@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tobiscuit.github.io/monsters-rolodex/static/css/main.87884f8a.chunk.css",
+    "main.js": "/tobiscuit.github.io/monsters-rolodex/static/js/main.c1d5c788.chunk.js",
+    "main.js.map": "/tobiscuit.github.io/monsters-rolodex/static/js/main.c1d5c788.chunk.js.map",
+    "runtime-main.js": "/tobiscuit.github.io/monsters-rolodex/static/js/runtime-main.fb1149f5.js",
+    "runtime-main.js.map": "/tobiscuit.github.io/monsters-rolodex/static/js/runtime-main.fb1149f5.js.map",
+    "static/js/2.b4309f00.chunk.js": "/tobiscuit.github.io/monsters-rolodex/static/js/2.b4309f00.chunk.js",
+    "static/js/2.b4309f00.chunk.js.map": "/tobiscuit.github.io/monsters-rolodex/static/js/2.b4309f00.chunk.js.map",
+    "index.html": "/tobiscuit.github.io/monsters-rolodex/index.html",
+    "precache-manifest.507fd1e90cf14294f748a22bf30fde80.js": "/tobiscuit.github.io/monsters-rolodex/precache-manifest.507fd1e90cf14294f748a22bf30fde80.js",
+    "service-worker.js": "/tobiscuit.github.io/monsters-rolodex/service-worker.js",
+    "static/css/main.87884f8a.chunk.css.map": "/tobiscuit.github.io/monsters-rolodex/static/css/main.87884f8a.chunk.css.map",
+    "static/js/2.b4309f00.chunk.js.LICENSE.txt": "/tobiscuit.github.io/monsters-rolodex/static/js/2.b4309f00.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb1149f5.js",
+    "static/js/2.b4309f00.chunk.js",
+    "static/css/main.87884f8a.chunk.css",
+    "static/js/main.c1d5c788.chunk.js"
+  ]
+}
